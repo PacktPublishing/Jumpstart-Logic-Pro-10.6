@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1800562772).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Jumpstart Logic Pro X 10.5
 
 <a href="https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776?utm_source=github&utm_medium=repository&utm_campaign=9781800562776"><img src="https://static.packt-cdn.com/products/9781800562776/cover/smaller" alt="Jumpstart Logic Pro X 10.5" height="256px" align="right"></a>
