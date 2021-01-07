@@ -3,23 +3,23 @@
 -----
 *If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1800562772).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
 
-# Jumpstart Logic Pro X 10.5
+# Jumpstart Logic Pro 10.6
 
-<a href="https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776?utm_source=github&utm_medium=repository&utm_campaign=9781800562776"><img src="https://static.packt-cdn.com/products/9781800562776/cover/smaller" alt="Jumpstart Logic Pro X 10.5" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776?utm_source=github&utm_medium=repository&utm_campaign=9781800562776"><img src="https://static.packt-cdn.com/products/9781800562776/cover/smaller" alt="Jumpstart Logic Pro 10.6" height="256px" align="right"></a>
 
-This is the media repository for [Jumpstart Logic Pro X 10.5](https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776?utm_source=github&utm_medium=repository&utm_campaign=9781800562776), published by Packt.
+This is the media repository for [Jumpstart Logic Pro 10.6](https://www.packtpub.com/product/jumpstart-logic-pro-x-10-5/9781800562776?utm_source=github&utm_medium=repository&utm_campaign=9781800562776), published by Packt.
 
 **Create professional music with Apple’s flagship digital audio workstation app**
 
 ## What is this book about?
-Logic Pro X is Apple’s flagship application for music creation, found in many professional music studios across the globe. It is a powerful digital audio workstation that comes with all the software tools that you need to create music that sounds great. In the latest version, Logic Pro X 10.5, Apple has added impressive features to what was already a full package of tools, loops, FX plug-ins, and software instruments.
+Logic Pro is Apple’s flagship application for music creation, found in many professional music studios across the globe. It is a powerful digital audio workstation that comes with all the software tools that you need to create music that sounds great. In the latest version, Logic Pro 10.6, Apple has added impressive features to what was already a full package of tools, loops, FX plug-ins, and software instruments.
 
 This book covers the following exciting features: 
 * Get to grips with Audio and MIDI and how they are different, along with covering Apple Loops
 * Record and edit audio, such as your voice or guitar
-* Create and edit MIDI parts, using Logic Pro X's software instruments
-* Develop realistic drums and electronic drums with Logic Pro X 10.5's amazing Drummer
-* Explore the new Step Sequencer, Live Loops, and Quick Sampler that are now included with version 10.5
+* Create and edit MIDI parts, using Logic Pro's software instruments
+* Develop realistic drums and electronic drums with Logic Pro 10.6's amazing Drummer
+* Explore the new Step Sequencer, Live Loops, and Quick Sampler that are now included with version 10.6
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800562772) today!
 
@@ -32,7 +32,7 @@ All of the projects and media is organized into folders.
 
 **Following is what you need for this book:**
 
-This book is for musicians, songwriters, and music producers who want to learn Logic Pro X from scratch with the help of expert guidance. A basic understanding of music theories such as chords and notes is highly recommended before you get started. This Logic Pro X book also assumes that you’ll be working on a Mac.
+This book is for musicians, songwriters, and music producers who want to learn Logic Pro from scratch with the help of expert guidance. A basic understanding of music theories such as chords and notes is highly recommended before you get started. This Logic Pro book also assumes that you’ll be working on a Mac.
 
 With the following software and hardware list you can follow all the steps present in the book (Chapter 1-16).
 
@@ -40,7 +40,7 @@ With the following software and hardware list you can follow all the steps prese
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1-16     |Logic Pro X                          |  Mac OS 10.15.6                    |
+| 1-16     |Logic Pro                            |  Mac OS 10.15.6                    |
 
 ### Related products <Other books you may enjoy>
 * Hands-On Music Generation with Magenta [[Packt]](https://www.packtpub.com/product/hands-on-music-generation-with-magenta/9781838824419?utm_source=github&utm_medium=repository&utm_campaign=9781838824419) [[Amazon]](https://www.amazon.com/dp/1838824413)
