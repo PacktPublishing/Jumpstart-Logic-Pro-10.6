@@ -12,14 +12,16 @@ This is the media repository for [Jumpstart Logic Pro 10.6](https://www.packtpub
 **Create professional music with Apple’s flagship digital audio workstation app**
 
 ## What is this book about?
-Logic Pro is Apple’s flagship application for music creation, found in many professional music studios across the globe. It is a powerful digital audio workstation that comes with all the software tools that you need to create music that sounds great. In the latest version, Logic Pro 10.6, Apple has added impressive features to what was already a full package of tools, loops, FX plug-ins, and software instruments.
+Logic Pro is Apple’s flagship application for music creation, found in many professional music studios across the globe. It is a powerful digital audio workstation that comes with all the software tools that you need to create music that sounds great. In the previous version, Logic Pro 10.5, Apple had added impressive features to what was already a full package of tools, loops, FX plug-ins, and software instruments.
 
 This book covers the following exciting features: 
 * Get to grips with Audio and MIDI and how they are different, along with covering Apple Loops
 * Record and edit audio, such as your voice or guitar
-* Create and edit MIDI parts, using Logic Pro's software instruments
-* Develop realistic drums and electronic drums with Logic Pro 10.6's amazing Drummer
-* Explore the new Step Sequencer, Live Loops, and Quick Sampler that are now included with version 10.6
+* Create and edit MIDI parts, using Logic Pro’s software instruments
+* Develop realistic drums and electronic drums with Logic Pro 10.5’s amazing Drummer
+* Explore the new Step Sequencer, Live Loops, and Quick Sampler that were included with version 10.5
+* Edit your arrangement and prepare the parts for mixing
+* Discover the principles of good mixing, including automation, pre-mastering, and final bouncing
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1800562772) today!
 
