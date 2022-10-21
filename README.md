@@ -48,3 +48,7 @@ With the following software and hardware list you can follow all the steps prese
 **Jay Asher**
 is an Apple Certified Trainer for Logic Pro, and the author of "Going Pro with Logic Pro 9" and "Scoring with Logic Pro". He has been a private consultant for many famous rock stars and film/TV composers. A composer and songwriter himself, Jay Asher scored the TV series "Zorro" and has written songs that have been recorded by Julio Iglesias, Whitney Houston, and Donna Summer, among others. He began learning Logic for his own musical endeavors, but along the way, something funny happened: he became a Logic Pro guru!
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800562776">https://packt.link/free-ebook/9781800562776 </a> </p>
